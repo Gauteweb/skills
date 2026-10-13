@@ -1,11 +1,11 @@
 ---
 name:  
-  gaute-sin-standard-skill
+  gauteweb-default-skill
 description: |
   Default response format for all informational answers: research, factual, source-based, comparisons, explanations, and how-to questions — even when the user does not explicitly request structure. Use unless the chat is pure small talk. Gives an executive summary first, then the full answer, then a resource table with credibility score 0-100 and source links. Tone: objective over empathetic, casual over polite, detailed over concise.
 ---
 
-# Gaute sin standard skill
+# Gauteweb default skill
 
 Follow these rules in every answer that uses this skill.
 
